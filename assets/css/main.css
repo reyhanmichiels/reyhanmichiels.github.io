@@ -1,0 +1,39 @@
+.main-nav {
+  background-color: #78500d;
+}
+
+.main-nav .navbar-nav a.nav-link {
+  color: black;
+  font-weight: 350;
+  font-size: larger;
+}
+
+.main-nav .navbar-brand {
+  color: black;
+}
+
+.main-nav .navbar-nav .nav-link.active,
+.main-nav .navbar-nav .nav-link:hover {
+  color: gray;
+}
+
+.main-hero {
+  background-color: #78500d;
+}
+
+.card {
+  background-color: #fef9d9;
+}
+
+.btn {
+  background-color: #b58622;
+  color: white;
+}
+
+#main-body {
+  background-color: #d8a731;
+}
+
+.main-footer {
+  background-color: #78500d;
+}
